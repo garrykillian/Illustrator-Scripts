@@ -1,0 +1,1 @@
+﻿var a = new Array();a = app.selection;app.selection = null;for(var j=0; j < a.length; j++){a[j].stroked = true;a[j].strokeWidth = 1;a[j].strokeColor = a[j].fillColor;a[j].filled= false;}//endfor
