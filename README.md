@@ -1,7 +1,7 @@
 # Illustrator-Scripts
 Illustrator javascripts for various tasks
 
-# Fill to Opacity
+# Fill_to_op ver 3.0
 Script to convert object fill color (needed to be converted to grayscale before running the script) to its opacity. 
 100% white - 100% opacity, 100% black - 0% opacity
 
